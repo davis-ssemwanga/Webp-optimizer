@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Inno Setup
+installer_output/
+
+# IDE
+.vscode/
+
+# Environment secrets
+.env
+.env.*
+
+# Test cache
+.pytest_cache/
